@@ -1,5 +1,35 @@
 {
 	"paper": [
+    {
+			"image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@2dcc2b1f7d848b8088ae4a1271ad32edaa010712/images/ResearchPaper.png",
+			"title": "The Collaborative Practices and Motivations of Online Communities Dedicated to Voluntary Misinformation Response",
+			"id": "online-communities-voluntary-misinfo-response",
+			"author": [
+				{
+					"author_name": "Jina Yoon"
+				},
+				{
+					"author_name": "Shreya Sathyanarayanan"
+				},
+				{
+					"author_name": "Franziska Roesner"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM GROUP 2025",
+			"conference url": "https://group.acm.org/conferences/group25/index.php",
+			"conference": "GROUP",
+			"year": "2025",
+			"short_abstract": "<p>.We present our findings as three case studies and discuss opportunities for future work to support collaborative practices in online communities dedicated to misinformation response. Our work surfaceshow resource sharing, social motivation, and decentralization can make misinformation correction moresustainable, rewarding, and effective for online citizens.; full text.&nbsp;</p>",
+			"abstract": "Responding to misinformation online can be an exhausting and thankless task. It takes time and energy to write effective content, puts users at risk of online harassment, and strains personal relationships. Despite these challenges, there are people who voluntarily respond to misinformation online, and some have established communities on platforms such as Reddit, Discord, and X (formerly Twitter) dedicated to these efforts. In this work, we interviewed 8 people who participate in such communities to understand the type of support they receive from each other in these discussion spaces. Interviewees described that their communities helped them sustain motivation, save time, and improve their communication skills. Common practices included sharing sources and citations, providing emotional support, giving others advice, and signaling positive feedback. We present our findings as three case studies and discuss opportunities for future work to support collaborative practices in online communities dedicated to misinformation response. Our work surfaceshow resource sharing, social motivation, and decentralization can make misinformation correction moresustainable, rewarding, and effective for online citizens",
+			"bibtex": "@article{10.1145/3701209, author = {Yoon, Jina and Sathyanarayanan, Shreya and Roesner, Franziska and Zhang, Amy X.}, title = {The Collaborative Practices and Motivations of Online Communities Dedicated to Voluntary Misinformation Response}, year = {2025}, issue_date = {January 2025}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, volume = {9}, number = {1}, url = {https://doi.org/10.1145/3701209}, doi = {10.1145/3701209}, abstract = {Responding to misinformation online can be an exhausting and thankless task. It takes time and energy to write effective content, puts users at risk of online harassment, and strains personal relationships. Despite these challenges, there are people who voluntarily respond to misinformation online, and some have established communities on platforms such as Reddit, Discord, and X (formerly Twitter) dedicated to these efforts. In this work, we interviewed 8 people who participate in such communities to understand the type of support they receive from each other in these discussion spaces. Interviewees described that their communities helped them sustain motivation, save time, and improve their communication skills. Common practices included sharing sources and citations, providing emotional support, giving others advice, and signaling positive feedback. We present our findings as three case studies and discuss opportunities for future work to support collaborative practices in online communities dedicated to misinformation response. Our work surfaces how resource sharing, social motivation, and decentralization can make misinformation correction more sustainable, rewarding, and effective for online citizens.}, journal = {Proc. ACM Hum.-Comput. Interact.}, month = jan, articleno = {GROUP30}, numpages = {15}, keywords = {communities of practice, misinformation, online communities, social correction, volunteers}}",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3701209"
+        "slides_url": "https://docs.google.com/presentation/d/1bIofxic5nWnlQ9CGCCpS2r0KLlJj0MqPB_4uMjJXI9o/edit?pli=1#slide=id.g208cb066cfb_0_1"
+			}
+		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d1f37071d8353428b1fc13511717efbe8b53e7e/images/qlarify.jpg",
 			"title": "Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers",
