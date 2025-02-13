@@ -45,21 +45,6 @@
 			"alum": false
 		},
 		{
-			"image": "https://www.nickmvincent.com/static/Headshots-916_Small.jpg",
-			"name": "Nick Vincent",
-			"jobTitle": "postdoc",
-			"bio": "Nick is a Postdoctoral Scholar working with the Social Futures Lab at UW and the Computational Communication Lab at UC Davis. His research aims to give the public more voice in determing how the AI systems we all contribute data to are used.&nbsp;",
-			"links": {
-				"website_url": "https://www.nickmvincent.com/",
-				"scholar_url": "https://scholar.google.com/citations?user=IWa_ZMcAAAAJ&hl=en",
-				"github_url": "https://github.com/nickmvincent",
-				"twitter_url": "https://twitter.com/nickmvincent",
-				"email": "nvince@cs.washington.edu"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
 			"name": "Ruotong Wang",
 			"jobTitle": "phd",
@@ -103,21 +88,7 @@
 			"@type": "Person",
 			"alum": false
 		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@444548a9cb445695d2a9a8c916c0b101f10f6bb7/images/profile-pic%20(23).jpeg",
-			"name": "Jina Yoon",
-			"jobTitle": "phd",
-			"bio": "Jina Yoon is a PhD student of Computer Science at the University of Washington. Her current research interests are in fostering empathetic conversation, combating misinformation, and leveraging addictive design for good. She also really likes to play video games.",
-			"links": {
-				"website_url": "https://jinayoon.com",
-				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wU19euwAAAAJ",
-				"github_url": "https://github.com/jinayoon",
-				"twitter_url": "https://twitter.com/jinayoon_",
-				"email": "jyoon963@cs.washington.edu"
-			},
-			"@type": "Person",
-			"alum": false
-		},
+
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ee247b48cb37c011bd6bb81b61e88f6dc72283b6/images/17DB189C-678A-446E-BFBA-447C7E834FD2_1_201_a.jpeg",
 			"name": "Leijie Wang",
@@ -146,19 +117,7 @@
 			"@type": "Person",
 			"alum": false
 		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5933b4006ae2eb427fbb8e9f9059a5f5281ea5/images/inyoung.png",
-			"name": "Inyoung Cheong",
-			"jobTitle": "phd",
-			"alum": true,
-			"bio": "Inyoung Cheong is a PhD student of Law at the University of Washington. Her research explores AI policy, governance, and regulatory approaches to mitigate foreseeable societal harms and developing interventions that promote accountability.",
-			"links": {
-				"website_url": "https://inyoungcheong.github.io",
-				"github_url": "https://github.com/inyoungcheong",
-				"twitter_url": "https://twitter.com/inyoungcheong"
-			},
-			"@type": "Person"
-		},
+
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
 			"name": "Teanna Barrett",
@@ -173,45 +132,8 @@
 			"@type": "Person",
 			"alum": false
 		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17b5baf078d1563efd4ee9868057234dd9f08de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
-			"name": "Emelia May Hughes",
-			"jobTitle": "visiting",
-			"@type": "Person",
-			"links": {
-				"website_url": "https://www.emeliahughes.com/",
-				"email": "emhughes@uw.edu"
-			},
-			"bio": "Emelia Hughes graduated from UW in June with degrees in Informatics and Drawing &amp; Painting. Her research interests are in human-computer interaction, and she is currently focusing on the UX surrounding credibility. Next fall, she will be a PhD student at Notre Dame.",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bc1557d93ecfd628d0229d1c82931deb67a8eda0/images/jenny.jpg",
-			"name": "Jenny Fan",
-			"jobTitle": "visiting",
-			"bio": "Jenny Fan is a designer and creative technologist interested in reimagining <a href=\"http://digitaljuries.com\">digital civics</a> in the online public sphere. She received her Masters in Design Engineering from Harvard University and B.S. Economics (with a focus on Information Systems) from the University of Pennsylvania, Wharton.",
-			"links": {
-				"website_url": "https://jennyfan.com",
-				"github_url": "https://github.com/jennyfan",
-				"twitter_url": "https://twitter.com/jennyjfan"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@96db881daba3941b0e0b43f836454b670c921c11/images/PeipeiNie.jpg",
-			"name": "Peipei Nie",
-			"jobTitle": "visiting",
-			"bio": "Peipei Nie is a social computing researcher from the University of Michigan's School of Information interested in our information ecosystem&rsquo;s impact on democracy. Her research focuses on content moderation, mis/disinformation and trust, and news and civic engagement with applications to social media and online communities.",
-			"links": {
-				"website_url": "https://peipei-nie.github.io/",
-				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=3b89k74AAAAJ",
-				"github_url": "https://github.com/peipei-nie",
-				"twitter_url": "https://twitter.com/PeipeiNie"
-			},
-			"@type": "Person",
-			"alum": true
-		},
+
+
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a5b23abf11ce42fb911c0440c23de840bc19ab5/images/thumbnail_tony.jpg",
 			"name": "Tony Li",
@@ -224,44 +146,7 @@
 			"@type": "Person",
 			"alum": false
 		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@defdf2abf1c8c871062e531a6dcba6e50211c557/images/Simona.jpg",
-			"name": "Simona Liao ",
-			"jobTitle": "masters",
-			"bio": "Simona Liao (she/they) is an undergraduate student at the University of Washington studying computer science and GWSS (Gender, Women, and Sexuality Studies). She is interested in Virtual Reality platforms and communities, and how to design them against harassments.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/simonaliao/?locale=en_US",
-				"github_url": "https://github.com/SimonaLiao"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
-			"name": "Anson Huang",
-			"jobTitle": "undergrad",
-			"bio": "Anson Huang is an undergraduate student at the University of Washington studying computer science and political science. His research interests are in the intersection of civics and tech.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/anson-j-huang/",
-				"github_url": "https://github.com/HuangLabz",
-				"twitter_url": "https://twitter.com/ansonjhuang"
-			},
-			"@type": "Person",
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6a491b95a80a47c607bfe5cfb6d3a66909e6b65e/images/headshot%202.png",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a25b9c247a69e121c56e5eb651a8cf6c93f90b7/images/sqry.png",
-			"name": "Ryan Li",
-			"jobTitle": "undergrad",
-			"bio": "Ryan Li is an undergraduate student at the University of Washington majoring in Computer Science and minoring in Data Science. His research interests are in online misinformation and disinformation.&nbsp;",
-			"links": {
-				"github_url": "https://github.com/RyanLi0802",
-				"twitter_url": "https://twitter.com/RyanLi91583606",
-				"website_url": "https://www.linkedin.com/in/ryan-li-a9b2761b8"
-			},
-			"@type": "Person",
-			"alum": true
-		},
+
 		{
 			"name": "Andre Ye",
 			"jobTitle": "undergrad",
@@ -274,18 +159,7 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8208ad7ad1b7f12148f4a62b2405b8d84682bf04/images/indoors-window-cropped.jpeg",
 			"alum": false
 		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@44a55ee5ba2f5af2451377feca7ec82bbda87834/images/Picture1.png",
-			"name": "Lin Qiu",
-			"jobTitle": "undergrad",
-			"bio": "Lin Qiu is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction and she is currently working on improving collaboration in small online meetings.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/lin-qiu-866600220/",
-				"github_url": "https://github.com/linqiu0-0"
-			},
-			"@type": "Person",
-			"alum": true
-		},
+
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7c66f10446f861c0979ded595120ff5b7caf5a52/images/Shreya%20Sathyanarayanan.jpg",
 			"name": "Shreya Sathyanarayanan",
@@ -297,52 +171,7 @@
 			"@type": "Person",
 			"alum": false
 		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2c705ad655a27a0f646965050878edd375993dc7/images/kianna_s_picture.jpeg",
-			"name": "Kianna Bolante",
-			"jobTitle": "undergrad",
-			"bio": "Kianna Bolante is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction, social computing, and education.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/kiannabolante/"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@387e54089160a41ac355e097bf776dec1080d148/images/IMG-2178(1).jpg",
-			"name": "Sarah Fredrickson",
-			"jobTitle": "undergrad",
-			"bio": "Sarah is an undergraduate student at the University of Washington studying computer science. Her research interests are in content moderation, online communities, and addressing misinformation.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/sarah-fredrickson-0a79601a5/",
-				"github_url": "https://github.com/sarahfredrickson"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c6ba0522d070469925a8c1ff7cd1aa73beb0e810/images/IMG_4618.jpg",
-			"name": "Pranati Dani",
-			"jobTitle": "undergrad",
-			"bio": "Pranati is an undergraduate student at UW studying Computer Science and minoring in Business Administration. She is extremely interested in the connection between communication and education with computing, and is working on the bridge between asynchronous and synchronous communication.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/pranati-dani/"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@49635732bd12a3367cc99cc2a4c7b5900bc7b273/images/Profile%20Photo%20Suit.jpeg",
-			"name": "Lawrence Tan",
-			"jobTitle": "undergrad",
-			"bio": "Lawrence Tan is an undergraduate student at the University of Washington studying Computer Science. His research interests are in human-computer interaction and novel applications of machine learning.",
-			"links": {
-				"website_url": "https://lawrencetan.ca/",
-				"github_url": "https://github.com/lawtancool"
-			},
-			"@type": "Person",
-			"alum": true
-		},
+
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@864edf70b6f54ef44209b5bed85512dacc66437d/images/IMG_8846.JPG",
 			"name": "Bingcan(Gloria) Guo",
@@ -354,28 +183,7 @@
 			"@type": "Person",
 			"alum": false
 		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f811ab7321a863d0b7d72ecc8363f61854046b5a/images/Judy_Kang.jpg",
-			"name": "Judy Kang",
-			"jobTitle": "undergrad",
-			"bio": "Judy Kang is an undergraduate student at the University of Washington studying Computer Science. Her research interests are UX design, HCI and accessibility and inclusive design.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/judy-kang"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@edf5b594571632c48ecd51e64e63492c65e641c3/images/Khushi%20Khandelwal.jpeg",
-			"name": "Khushi Khandelwal ",
-			"jobTitle": "undergrad",
-			"bio": "Khushi Khandelwal is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction, online misinformation, and artificial intelligence.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/khushi-khandelwal-232224193/"
-			},
-			"@type": "Person",
-			"alum": true
-		},
+
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@51feb21866b88725094b0ccedf4f31f62d0733e1/images/IMG_0012%20(1).jpg",
 			"name": "Brooke Nelson",
@@ -387,39 +195,7 @@
 			"@type": "Person",
 			"alum": false
 		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cf982ac9df254554acf8283b5e93dd766bfd001b/images/SIX_71205014-4F87-4423-8725-CDE7D4F404BA.jpg",
-			"name": "Kathryn Yurechko",
-			"jobTitle": "intern",
-			"bio": "Kathryn Yurechko is an undergraduate student at Washington and Lee University studying Computer Science, Philosophy, and Poverty and Human Capability Studies. Her research interests are in content moderation and the support of marginalized communities on social media.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/kathryn-yurechko"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@57eb8e8fab4c4f4a9fa93cc8788c161deee7fe2a/images/Image%20from%20iOS.jpg",
-			"name": "Anisa Callis",
-			"jobTitle": "intern",
-			"bio": "Anisa is a rising 4th year at Penn State University in State College, PA studying Human Centered Design and Development. She has done research on visually impaired peoples&rsquo; interactions with TikTok, and also groups and their interactions with AI towards better decision-making.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/anisa-callis/"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17f8e2aefc653a087ae53d0513fe6508f671b704/images/philip_sfl_pic.jpg",
-			"name": "Philip Baillargeon",
-			"jobTitle": "intern",
-			"bio": "Philip Baillargeon (he/him) is an undergraduate student at Stanford University studying Computer Science and Human-Computer Interaction. His interests include social computing, neurodiversity in social computing systems, accessible education technology, and public interest technology.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/pabaill/"
-			},
-			"@type": "Person",
-			"alum": true
-		},
+
 		{
 			"image": "images/Andrew Shaw.jpg",
 			"name": "Andrew Shaw",
@@ -578,6 +354,239 @@
 			"jobTitle": "intern",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/kevich/"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://www.nickmvincent.com/static/Headshots-916_Small.jpg",
+			"name": "Nick Vincent",
+			"jobTitle": "postdoc",
+			"bio": "Nick is a Postdoctoral Scholar working with the Social Futures Lab at UW and the Computational Communication Lab at UC Davis. His research aims to give the public more voice in determing how the AI systems we all contribute data to are used.&nbsp;",
+			"links": {
+				"website_url": "https://www.nickmvincent.com/",
+				"scholar_url": "https://scholar.google.com/citations?user=IWa_ZMcAAAAJ&hl=en",
+				"github_url": "https://github.com/nickmvincent",
+				"twitter_url": "https://twitter.com/nickmvincent",
+				"email": "nvince@cs.washington.edu"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@defdf2abf1c8c871062e531a6dcba6e50211c557/images/Simona.jpg",
+			"name": "Simona Liao ",
+			"jobTitle": "masters",
+			"bio": "Simona Liao (she/they) is an undergraduate student at the University of Washington studying computer science and GWSS (Gender, Women, and Sexuality Studies). She is interested in Virtual Reality platforms and communities, and how to design them against harassments.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/simonaliao/?locale=en_US",
+				"github_url": "https://github.com/SimonaLiao"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+		{
+			"name": "Anson Huang",
+			"jobTitle": "undergrad",
+			"bio": "Anson Huang is an undergraduate student at the University of Washington studying computer science and political science. His research interests are in the intersection of civics and tech.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/anson-j-huang/",
+				"github_url": "https://github.com/HuangLabz",
+				"twitter_url": "https://twitter.com/ansonjhuang"
+			},
+			"@type": "Person",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6a491b95a80a47c607bfe5cfb6d3a66909e6b65e/images/headshot%202.png",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cf982ac9df254554acf8283b5e93dd766bfd001b/images/SIX_71205014-4F87-4423-8725-CDE7D4F404BA.jpg",
+			"name": "Kathryn Yurechko",
+			"jobTitle": "intern",
+			"bio": "Kathryn Yurechko is an undergraduate student at Washington and Lee University studying Computer Science, Philosophy, and Poverty and Human Capability Studies. Her research interests are in content moderation and the support of marginalized communities on social media.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/kathryn-yurechko"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@57eb8e8fab4c4f4a9fa93cc8788c161deee7fe2a/images/Image%20from%20iOS.jpg",
+			"name": "Anisa Callis",
+			"jobTitle": "intern",
+			"bio": "Anisa is a rising 4th year at Penn State University in State College, PA studying Human Centered Design and Development. She has done research on visually impaired peoples&rsquo; interactions with TikTok, and also groups and their interactions with AI towards better decision-making.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/anisa-callis/"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17f8e2aefc653a087ae53d0513fe6508f671b704/images/philip_sfl_pic.jpg",
+			"name": "Philip Baillargeon",
+			"jobTitle": "intern",
+			"bio": "Philip Baillargeon (he/him) is an undergraduate student at Stanford University studying Computer Science and Human-Computer Interaction. His interests include social computing, neurodiversity in social computing systems, accessible education technology, and public interest technology.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/pabaill/"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f811ab7321a863d0b7d72ecc8363f61854046b5a/images/Judy_Kang.jpg",
+			"name": "Judy Kang",
+			"jobTitle": "undergrad",
+			"bio": "Judy Kang is an undergraduate student at the University of Washington studying Computer Science. Her research interests are UX design, HCI and accessibility and inclusive design.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/judy-kang"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@edf5b594571632c48ecd51e64e63492c65e641c3/images/Khushi%20Khandelwal.jpeg",
+			"name": "Khushi Khandelwal ",
+			"jobTitle": "undergrad",
+			"bio": "Khushi Khandelwal is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction, online misinformation, and artificial intelligence.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/khushi-khandelwal-232224193/"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@44a55ee5ba2f5af2451377feca7ec82bbda87834/images/Picture1.png",
+			"name": "Lin Qiu",
+			"jobTitle": "undergrad",
+			"bio": "Lin Qiu is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction and she is currently working on improving collaboration in small online meetings.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/lin-qiu-866600220/",
+				"github_url": "https://github.com/linqiu0-0"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5933b4006ae2eb427fbb8e9f9059a5f5281ea5/images/inyoung.png",
+			"name": "Inyoung Cheong",
+			"jobTitle": "phd",
+			"alum": true,
+			"bio": "Inyoung Cheong is a PhD student of Law at the University of Washington. Her research explores AI policy, governance, and regulatory approaches to mitigate foreseeable societal harms and developing interventions that promote accountability.",
+			"links": {
+				"website_url": "https://inyoungcheong.github.io",
+				"github_url": "https://github.com/inyoungcheong",
+				"twitter_url": "https://twitter.com/inyoungcheong"
+			},
+			"@type": "Person"
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2c705ad655a27a0f646965050878edd375993dc7/images/kianna_s_picture.jpeg",
+			"name": "Kianna Bolante",
+			"jobTitle": "undergrad",
+			"bio": "Kianna Bolante is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction, social computing, and education.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/kiannabolante/"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@387e54089160a41ac355e097bf776dec1080d148/images/IMG-2178(1).jpg",
+			"name": "Sarah Fredrickson",
+			"jobTitle": "undergrad",
+			"bio": "Sarah is an undergraduate student at the University of Washington studying computer science. Her research interests are in content moderation, online communities, and addressing misinformation.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/sarah-fredrickson-0a79601a5/",
+				"github_url": "https://github.com/sarahfredrickson"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c6ba0522d070469925a8c1ff7cd1aa73beb0e810/images/IMG_4618.jpg",
+			"name": "Pranati Dani",
+			"jobTitle": "undergrad",
+			"bio": "Pranati is an undergraduate student at UW studying Computer Science and minoring in Business Administration. She is extremely interested in the connection between communication and education with computing, and is working on the bridge between asynchronous and synchronous communication.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/pranati-dani/"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@49635732bd12a3367cc99cc2a4c7b5900bc7b273/images/Profile%20Photo%20Suit.jpeg",
+			"name": "Lawrence Tan",
+			"jobTitle": "undergrad",
+			"bio": "Lawrence Tan is an undergraduate student at the University of Washington studying Computer Science. His research interests are in human-computer interaction and novel applications of machine learning.",
+			"links": {
+				"website_url": "https://lawrencetan.ca/",
+				"github_url": "https://github.com/lawtancool"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a25b9c247a69e121c56e5eb651a8cf6c93f90b7/images/sqry.png",
+			"name": "Ryan Li",
+			"jobTitle": "undergrad",
+			"bio": "Ryan Li is an undergraduate student at the University of Washington majoring in Computer Science and minoring in Data Science. His research interests are in online misinformation and disinformation.&nbsp;",
+			"links": {
+				"github_url": "https://github.com/RyanLi0802",
+				"twitter_url": "https://twitter.com/RyanLi91583606",
+				"website_url": "https://www.linkedin.com/in/ryan-li-a9b2761b8"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17b5baf078d1563efd4ee9868057234dd9f08de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
+			"name": "Emelia May Hughes",
+			"jobTitle": "visiting",
+			"@type": "Person",
+			"links": {
+				"website_url": "https://www.emeliahughes.com/",
+				"email": "emhughes@uw.edu"
+			},
+			"bio": "Emelia Hughes graduated from UW in June with degrees in Informatics and Drawing &amp; Painting. Her research interests are in human-computer interaction, and she is currently focusing on the UX surrounding credibility. Next fall, she will be a PhD student at Notre Dame.",
+			"alum": true
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bc1557d93ecfd628d0229d1c82931deb67a8eda0/images/jenny.jpg",
+			"name": "Jenny Fan",
+			"jobTitle": "visiting",
+			"bio": "Jenny Fan is a designer and creative technologist interested in reimagining <a href=\"http://digitaljuries.com\">digital civics</a> in the online public sphere. She received her Masters in Design Engineering from Harvard University and B.S. Economics (with a focus on Information Systems) from the University of Pennsylvania, Wharton.",
+			"links": {
+				"website_url": "https://jennyfan.com",
+				"github_url": "https://github.com/jennyfan",
+				"twitter_url": "https://twitter.com/jennyjfan"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@444548a9cb445695d2a9a8c916c0b101f10f6bb7/images/profile-pic%20(23).jpeg",
+			"name": "Jina Yoon",
+			"jobTitle": "phd",
+			"bio": "Jina Yoon is a PhD student of Computer Science at the University of Washington. Her current research interests are in fostering empathetic conversation, combating misinformation, and leveraging addictive design for good. She also really likes to play video games.",
+			"links": {
+				"website_url": "https://jinayoon.com",
+				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wU19euwAAAAJ",
+				"github_url": "https://github.com/jinayoon",
+				"twitter_url": "https://twitter.com/jinayoon_",
+				"email": "jyoon963@cs.washington.edu"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@96db881daba3941b0e0b43f836454b670c921c11/images/PeipeiNie.jpg",
+			"name": "Peipei Nie",
+			"jobTitle": "visiting",
+			"bio": "Peipei Nie is a social computing researcher from the University of Michigan's School of Information interested in our information ecosystem&rsquo;s impact on democracy. Her research focuses on content moderation, mis/disinformation and trust, and news and civic engagement with applications to social media and online communities.",
+			"links": {
+				"website_url": "https://peipei-nie.github.io/",
+				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=3b89k74AAAAJ",
+				"github_url": "https://github.com/peipei-nie",
+				"twitter_url": "https://twitter.com/PeipeiNie"
 			},
 			"@type": "Person",
 			"alum": true
