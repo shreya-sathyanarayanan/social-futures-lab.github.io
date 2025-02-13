@@ -126,7 +126,9 @@
 					"@type": "item"
 				},
 				{
-					"@type": "item"
+					"@type": "item",
+					"project_url": "https://www.aliciaguo.com/papers/writer_values.pdf",
+					"project_name": "AI-Assisted Writing"
 				}
 			],
 			"author2": [
