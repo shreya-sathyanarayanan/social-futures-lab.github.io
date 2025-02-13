@@ -129,6 +129,11 @@
 					"@type": "item",
 					"project_url": "https://www.aliciaguo.com/papers/writer_values.pdf",
 					"project_name": "AI-Assisted Writing"
+				},
+				{
+					"project_url": "https://social.cs.washington.edu/pub_details.html?id=critical-thinking-tools",
+					"project_name": "AI for Critical Thinking",
+					"@type": "item"
 				}
 			],
 			"author2": [
@@ -137,6 +142,9 @@
 				},
 				{
 					"author_name2": "Alicia Guo"
+				},
+				{
+					"author_name2": "Andre Ye"
 				}
 			]
 		},
@@ -160,6 +168,11 @@
 				{
 					"@type": "item",
 					"project_name": "Skin Tone"
+				},
+				{
+					"project_url": "https://social.cs.washington.edu/pub_details.html?id=legal-advice-llm",
+					"project_name": "AI for Legal Advice",
+					"@type": "item"
 				}
 			],
 			"author2": [
@@ -174,6 +187,9 @@
 				},
 				{
 					"author_name2": "Andre Ye"
+				},
+				{
+					"author_name2": "Inyoung Cheong"
 				}
 			]
 		}
