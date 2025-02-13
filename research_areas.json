@@ -24,6 +24,11 @@
 					"project_url": "http://wikum.org/",
 					"project_name": "Wikum",
 					"@type": "item"
+				},
+				{
+					"project_url": "https://social.cs.washington.edu/pub_details.html?id=teachable-feeds",
+					"project_name": "Teachable Social Media Feeds",
+					"@type": "item"
 				}
 			],
 			"peoples": {
