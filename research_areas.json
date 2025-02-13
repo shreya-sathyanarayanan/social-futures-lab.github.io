@@ -10,7 +10,7 @@
 				{
 					"author_name2": "Kevin Feng"
 				},
-                {
+				{
 					"author_name2": "Leijie Wang"
 				}
 			],
@@ -39,11 +39,11 @@
 					"project_name": "PolicyKit",
 					"@type": "item"
 				},
-                {
-                    "project_url": "http://policykit.org/",
+				{
+					"project_url": "http://policykit.org/",
 					"project_name": "Pika",
 					"@type": "item"
-                },
+				},
 				{
 					"project_url": "http://digitaljuries.com/",
 					"project_name": "Digital Juries",
@@ -68,15 +68,13 @@
 			"project": [
 				{
 					"@type": "item",
-					"project_url": "",
 					"project_name": "Online Reporting Systems"
 				},
 				{
-					"project_url": "",
 					"project_name": "FilterBuddy",
 					"@type": "item"
 				},
-                {
+				{
 					"project_url": "https://squadbox.org/",
 					"project_name": "Squadbox",
 					"@type": "item"
@@ -86,19 +84,19 @@
 				{
 					"author_name2": "Leijie Wang"
 				},
-                {
+				{
 					"author_name2": "Quan Ze (Jim) Chen"
 				},
-                {
-                    "author_name2": "Jina Yoon"
-                }
+				{
+					"author_name2": "Jina Yoon"
+				}
 			]
 		},
-        {
+		{
 			"title": "Improving Online Discourse",
 			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little in decades. But these designs bake in assumptions about discussion that limit our capabilities for exchange. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
 			"project": [
-                {
+				{
 					"project_name": "Tilda",
 					"project_url": "http://tildachat.com/",
 					"@type": "item"
@@ -113,62 +111,66 @@
 				{
 					"author_name2": "Kevin Feng"
 				},
-                {
+				{
 					"author_name2": "Ruotong Wang"
 				}
 			]
 		},
-        {
+		{
 			"title": "Information Management and Creativity Support",
 			"description": "<span style=\"font-size: 14px;\">We design new software tools and human-AI hybrid systems to support group collaboration and creative work.</span>",
 			"project": [
-
+				{
+					"project_url": "https://arxiv.org/abs/2401.09051",
+					"project_name": "Canvil",
+					"@type": "item"
+				},
+				{
+					"@type": "item"
+				}
 			],
 			"author2": [
 				{
 					"author_name2": "Kevin Feng"
 				},
-                {
+				{
 					"author_name2": "Alicia Guo"
 				}
 			]
 		},
-        {
+		{
 			"title": "Socially Situated AI",
 			"description": "<span style=\"font-size: 14px;\">We create AI tools that capture socially-constructed concepts as well as AI agents for everyday use of social media.</span>",
 			"project": [
-                {
+				{
 					"project_url": "https://homes.cs.washington.edu/~cqz/pubs/goldilocks_preprint.pdf",
 					"project_name": "Goldilocks",
 					"@type": "item"
 				},
-                {
-                    "@type": "item",
-					"project_name": "Case Law",
-					"project_url": ""
-                },
-                {
-                    "@type": "item",
-					"project_name": "Confidence Contours",
-					"project_url": ""
-                },
-                {
-                    "@type": "item",
-					"project_name": "Skin Tone",
-					"project_url": ""
-                }
+				{
+					"@type": "item",
+					"project_name": "Case Law"
+				},
+				{
+					"@type": "item",
+					"project_name": "Confidence Contours"
+				},
+				{
+					"@type": "item",
+					"project_name": "Skin Tone"
+				}
 			],
 			"author2": [
 				{
 					"author_name2": "Quan Ze (Jim) Chen"
 				},
-                {
+				{
 					"author_name2": "Kevin Feng"
 				},
-                {
+				{
 					"author_name2": "Teanna Barrett"
 				},
-                {
+				{
 					"author_name2": "Andre Ye"
 				}
 			]
