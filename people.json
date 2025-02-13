@@ -134,18 +134,7 @@
 		},
 
 
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a5b23abf11ce42fb911c0440c23de840bc19ab5/images/thumbnail_tony.jpg",
-			"name": "Tony Li",
-			"jobTitle": "masters",
-			"bio": "Tony (he/him) is a master's student in the HCDE department at the UW. He is also the president of the HCDE Graduate Student Association. WIth industry experience in data engineering, Tony is interested in human-AI interaction and the intersection of data and HCI.",
-			"links": {
-				"website_url": "https://tonyli1.github.io/",
-				"github_url": "https://github.com/tonyli1"
-			},
-			"@type": "Person",
-			"alum": false
-		},
+
 
 		{
 			"name": "Andre Ye",
@@ -175,7 +164,7 @@
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@864edf70b6f54ef44209b5bed85512dacc66437d/images/IMG_8846.JPG",
 			"name": "Bingcan(Gloria) Guo",
-			"jobTitle": "undergrad",
+			"jobTitle": "masters",
 			"bio": "Bingcan(Gloria) Guo is an exchange student at the University of Washington. She is an undergraduate student at The Hong Kong University of Science and Technology studying Data Science and Computer Science. Her research interests are gamification and understanding online communities.",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/gloria-guo/"
@@ -184,17 +173,7 @@
 			"alum": false
 		},
 
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@51feb21866b88725094b0ccedf4f31f62d0733e1/images/IMG_0012%20(1).jpg",
-			"name": "Brooke Nelson",
-			"jobTitle": "intern",
-			"bio": "Brooke Nelson is an undergraduate student at the University of Colorado: Boulder majoring in computer science. Her research interests are to better understand online communities and effective content moderation.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/brooke-nelson-124375280/"
-			},
-			"@type": "Person",
-			"alum": false
-		},
+
 
 		{
 			"image": "images/Andrew Shaw.jpg",
@@ -207,17 +186,7 @@
 			"@type": "Person",
 			"alum": false
 		},
-		{
-			"image": "images/kuhlsydney.jpg",
-			"name": "Sydney Kuhl",
-			"jobTitle": "undergrad",
-			"bio": "Sydney Kuhl is an undergraduate student at the University of Washington studying computer science. Her research interests are in machine learning, natural language processing, and online misinformation.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/sydneykuhl/"
-			},
-			"@type": "Person",
-			"alum": true
-		},
+
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"name": "Shagun Jhaver",
@@ -587,6 +556,40 @@
 				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=3b89k74AAAAJ",
 				"github_url": "https://github.com/peipei-nie",
 				"twitter_url": "https://twitter.com/PeipeiNie"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "images/kuhlsydney.jpg",
+			"name": "Sydney Kuhl",
+			"jobTitle": "undergrad",
+			"bio": "Sydney Kuhl is an undergraduate student at the University of Washington studying computer science. Her research interests are in machine learning, natural language processing, and online misinformation.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/sydneykuhl/"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a5b23abf11ce42fb911c0440c23de840bc19ab5/images/thumbnail_tony.jpg",
+			"name": "Tony Li",
+			"jobTitle": "masters",
+			"bio": "Tony (he/him) is a master's student in the HCDE department at the UW. He is also the president of the HCDE Graduate Student Association. WIth industry experience in data engineering, Tony is interested in human-AI interaction and the intersection of data and HCI.",
+			"links": {
+				"website_url": "https://tonyli1.github.io/",
+				"github_url": "https://github.com/tonyli1"
+			},
+			"@type": "Person",
+			"alum": true
+		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@51feb21866b88725094b0ccedf4f31f62d0733e1/images/IMG_0012%20(1).jpg",
+			"name": "Brooke Nelson",
+			"jobTitle": "intern",
+			"bio": "Brooke Nelson is an undergraduate student at the University of Colorado: Boulder majoring in computer science. Her research interests are to better understand online communities and effective content moderation.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/brooke-nelson-124375280/"
 			},
 			"@type": "Person",
 			"alum": true
