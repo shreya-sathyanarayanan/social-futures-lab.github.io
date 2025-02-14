@@ -17,16 +17,18 @@
 			"link": {
 				"link_url": "https://www.hertzfoundation.org/news/52-finalists-named-for-the-2025-hertz-fellowships/",
 				"link_text": "Finalists anouncement"
-			}
+			},
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8a8719b9dbad64edd443ab3e8d11de31fecc5e43/images/hertz-foundation-logo-1200x630-1-1956906485.jpg"
 		},
 		{
 			"title": "Xinyi is a Rising Star in EECS and Data Science",
 			"date": "Dec 2024",
-			"description": "With a focus in Artificial Intelligence, Xinyi&nbsp; joined the Rising Stars in EECS workshop in 2024. In the presentation, she shared her comprehensive work on MUSE, a LLM aimed at addressing misinformation bottlenecks.&nbsp;",
+			"description": "With a focus in Artificial Intelligence, Xinyi&nbsp; joined the Rising Stars in EECS meeting in 2024. In the presentation, she shared her comprehensive work on MUSE, a LLM aimed at addressing misinformation bottlenecks.",
 			"link": {
 				"link_url": "https://risingstars-eecs.mit.edu/participants/xinyi-zhou/",
-				"link_text": "Participant bio"
-			}
+				"link_text": "Rising Star bio"
+			},
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0768ba6e0227c17d0e44e6386f1dd57948df19aa/images/Screenshot%20from%202025-02-13%2022-04-54.png"
 		},
 		{
 			"title": "Teanna presents at the 2025 World Engineering Education Forum (WEEF)",
@@ -35,7 +37,8 @@
 			"link": {
 				"link_url": "https://ieeexplore.ieee.org/document/10854949",
 				"link_text": "Paper link"
-			}
+			},
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4f3ff053194626e7b93b8f7fb12fb6d955d4b12c/images/Screenshot%20from%202025-02-13%2022-09-47.png"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fcc58fe8878b46aec3bb199132fe2660ec427027/images/NeruIPS.jpg",
@@ -79,9 +82,9 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d76a9f724803a53534946b0732319b876c919d95/images/Screenshot%20from%202025-02-13%2016-47-34.png",
-			"title": "Alicia presented at the Causal Islands Conference",
+			"title": "Alicia presents at the Causal Islands Conference",
 			"date": "Oct 2024",
-			"description": "Alicia gave a talk on \"Learning from Poetic Practices: Creativity Through Computational Means\" at the Berlin-based conference.",
+			"description": "Alicia gave a talk on \"Learning from Poetic Practices: Creativity Through Computational Means\" at the conference hosted in Berlin.",
 			"link": {
 				"link_url": "https://berlin.causalislands.com/#speakers",
 				"link_text": "Conference website"
@@ -114,7 +117,8 @@
 			"link": {
 				"link_url": "https://chiwork.org/24/organizers/",
 				"link_text": "Conference website"
-			}
+			},
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b58bd0cd615716e0d67b1cdbac8aef4717646ab6/images/Screenshot%20from%202025-02-13%2022-00-12.png"
 		},
 		{
 			"title": "Amy appeared on the Techdirt podcast",
