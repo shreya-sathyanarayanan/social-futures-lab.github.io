@@ -1,46 +1,43 @@
 {
 	"news_item": [
 		{
-      "image": "",
-      "title": "Xinyi presented at UW Data Science Seminar at the EScience Institute",
-      "date": "",
-      "description": "",
-      "link": {
-        "link_url": "",
-        "link_text": ""
-      }
-    },
-    {
-      "image": "",
-      "title": "Andre is a 2025 Hertz finalist",
-      "date": "",
-      "description": "",
-      "link": {
-        "link_url": "",
-        "link_text": ""
-      }
-    },
-    {
-      "image": "",
-      "title": "Xinyi is a Rising Star in EECS and Data Science",
-      "date": "Dec 2024",
-      "description": "",
-      "link": {
-        "link_url": "",
-        "link_text": ""
-      }
-    },
-    {
-      "image": "",
-      "title": "Teanna presented at the 2025 World Engineering Education Forum (WEEF)",
-      "date": "",
-      "description": "",
-      "link": {
-        "link_url": "",
-        "link_text": ""
-      }
-    },
-    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@25c5f974d35ed20a93076689895f60adb036c0b1/images/Screenshot%20from%202025-02-13%2016-25-22.png",
+			"title": "Xinyi presents at UW Data Science Seminar at the EScience Institute",
+			"date": "Feb 2025",
+			"description": "Xinyi presented her work on \"Augmenting LLMs for Social Impact\" at the UW Data Science Seminar hosted by the eScience Institute at the University of Washington.",
+			"link": {
+				"link_url": "https://escience.washington.edu/events/uw-data-science-seminar-xinyi-zhou/",
+				"link_text": "Seminar anouncement"
+			}
+		},
+		{
+			"title": "Andre is a 2025 Fannie and John Hertz Fellowship finalist",
+			"date": "Feb 2025",
+			"description": "Andre is one of 52 finalists (and the only finalist from UW) for the pretigious fellowship. The final fellowship cohort will be announced in May 2025.",
+			"link": {
+				"link_url": "https://www.hertzfoundation.org/news/52-finalists-named-for-the-2025-hertz-fellowships/",
+				"link_text": "Finalists anouncement"
+			}
+		},
+		{
+			"title": "Xinyi is a Rising Star in EECS and Data Science",
+			"date": "Dec 2024",
+			"description": "With a focus in Artificial Intelligence, Xinyi&nbsp; joined the Rising Stars in EECS workshop in 2024. In the presentation, she shared her comprehensive work on MUSE, a LLM aimed at addressing misinformation bottlenecks.&nbsp;",
+			"link": {
+				"link_url": "https://risingstars-eecs.mit.edu/participants/xinyi-zhou/",
+				"link_text": "Participant bio"
+			}
+		},
+		{
+			"title": "Teanna presents at the 2025 World Engineering Education Forum (WEEF)",
+			"date": "Dec 2024",
+			"description": "Teanna presented \"Scalable Community Mentorship: A Vision for Engineering Literacy &amp; Access\" in collaboration with AVELA - A Vision for Engineering Access &amp; Literacy to highlight AVELA's STEM engagement model for UW engineering students.&nbsp;",
+			"link": {
+				"link_url": "https://ieeexplore.ieee.org/document/10854949",
+				"link_text": "Paper link"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fcc58fe8878b46aec3bb199132fe2660ec427027/images/NeruIPS.jpg",
 			"title": "Pluralistic Alignment workshop at NeurIPS",
 			"date": "Dec 2024",
@@ -80,16 +77,16 @@
 				"link_text": "Paper link"
 			}
 		},
-    {
-      "image": "",
-      "title": "Alicia presented at the Causal Islands Conference",
-      "date": "Oct 2024",
-      "description": "",
-      "link": {
-        "link_url": "",
-        "link_text": ""
-      }
-    },
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d76a9f724803a53534946b0732319b876c919d95/images/Screenshot%20from%202025-02-13%2016-47-34.png",
+			"title": "Alicia presented at the Causal Islands Conference",
+			"date": "Oct 2024",
+			"description": "Alicia gave a talk on \"Learning from Poetic Practices: Creativity Through Computational Means\" at the Berlin-based conference.",
+			"link": {
+				"link_url": "https://berlin.causalislands.com/#speakers",
+				"link_text": "Conference website"
+			}
+		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4fc571722112a37f44a3ad04aada45b928b92e97/images/galenpresentation.png",
 			"title": "Galen presents work on online community values at ICWSM 2024",
@@ -110,16 +107,15 @@
 				"link_text": "FAccT 2024 website"
 			}
 		},
-    {
-      "image": "",
-      "title": "Ruotong attends the CHI WORK conference",
-      "date": "June 2024",
-      "description": "",
-      "link": {
-        "link_url": "",
-        "link_text": ""
-      }
-    },
+		{
+			"title": "Ruotong attends the CHI WORK conference",
+			"date": "June 2024",
+			"description": "Ruotong participated and served as a program committee member for CHIWORK, a CHI symposium exploring how HCI will support work in the future. This year it was hosted by Northumbria University in Newcastle, UK&nbsp;",
+			"link": {
+				"link_url": "https://chiwork.org/24/organizers/",
+				"link_text": "Conference website"
+			}
+		},
 		{
 			"title": "Amy appeared on the Techdirt podcast",
 			"date": "May 2024",
