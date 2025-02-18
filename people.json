@@ -88,7 +88,6 @@
 			"@type": "Person",
 			"alum": false
 		},
-
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ee247b48cb37c011bd6bb81b61e88f6dc72283b6/images/17DB189C-678A-446E-BFBA-447C7E834FD2_1_201_a.jpeg",
 			"name": "Leijie Wang",
@@ -117,7 +116,6 @@
 			"@type": "Person",
 			"alum": false
 		},
-
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
 			"name": "Teanna Barrett",
@@ -132,10 +130,6 @@
 			"@type": "Person",
 			"alum": false
 		},
-
-
-
-
 		{
 			"name": "Andre Ye",
 			"jobTitle": "undergrad",
@@ -148,7 +142,6 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8208ad7ad1b7f12148f4a62b2405b8d84682bf04/images/indoors-window-cropped.jpeg",
 			"alum": false
 		},
-
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7c66f10446f861c0979ded595120ff5b7caf5a52/images/Shreya%20Sathyanarayanan.jpg",
 			"name": "Shreya Sathyanarayanan",
@@ -160,7 +153,6 @@
 			"@type": "Person",
 			"alum": false
 		},
-
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@864edf70b6f54ef44209b5bed85512dacc66437d/images/IMG_8846.JPG",
 			"name": "Bingcan(Gloria) Guo",
@@ -172,9 +164,6 @@
 			"@type": "Person",
 			"alum": false
 		},
-
-
-
 		{
 			"image": "images/Andrew Shaw.jpg",
 			"name": "Andrew Shaw",
@@ -186,7 +175,6 @@
 			"@type": "Person",
 			"alum": false
 		},
-
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"name": "Shagun Jhaver",
@@ -327,7 +315,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://www.nickmvincent.com/static/Headshots-916_Small.jpg",
 			"name": "Nick Vincent",
 			"jobTitle": "postdoc",
@@ -342,7 +330,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@defdf2abf1c8c871062e531a6dcba6e50211c557/images/Simona.jpg",
 			"name": "Simona Liao ",
 			"jobTitle": "masters",
@@ -367,7 +355,7 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6a491b95a80a47c607bfe5cfb6d3a66909e6b65e/images/headshot%202.png",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cf982ac9df254554acf8283b5e93dd766bfd001b/images/SIX_71205014-4F87-4423-8725-CDE7D4F404BA.jpg",
 			"name": "Kathryn Yurechko",
 			"jobTitle": "intern",
@@ -400,7 +388,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f811ab7321a863d0b7d72ecc8363f61854046b5a/images/Judy_Kang.jpg",
 			"name": "Judy Kang",
 			"jobTitle": "undergrad",
@@ -422,7 +410,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@44a55ee5ba2f5af2451377feca7ec82bbda87834/images/Picture1.png",
 			"name": "Lin Qiu",
 			"jobTitle": "undergrad",
@@ -434,7 +422,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5933b4006ae2eb427fbb8e9f9059a5f5281ea5/images/inyoung.png",
 			"name": "Inyoung Cheong",
 			"jobTitle": "phd",
@@ -447,7 +435,7 @@
 			},
 			"@type": "Person"
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2c705ad655a27a0f646965050878edd375993dc7/images/kianna_s_picture.jpeg",
 			"name": "Kianna Bolante",
 			"jobTitle": "undergrad",
@@ -493,7 +481,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a25b9c247a69e121c56e5eb651a8cf6c93f90b7/images/sqry.png",
 			"name": "Ryan Li",
 			"jobTitle": "undergrad",
@@ -506,7 +494,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17b5baf078d1563efd4ee9868057234dd9f08de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
 			"name": "Emelia May Hughes",
 			"jobTitle": "visiting",
@@ -531,7 +519,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@444548a9cb445695d2a9a8c916c0b101f10f6bb7/images/profile-pic%20(23).jpeg",
 			"name": "Jina Yoon",
 			"jobTitle": "phd",
@@ -546,7 +534,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@96db881daba3941b0e0b43f836454b670c921c11/images/PeipeiNie.jpg",
 			"name": "Peipei Nie",
 			"jobTitle": "visiting",
@@ -560,7 +548,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "images/kuhlsydney.jpg",
 			"name": "Sydney Kuhl",
 			"jobTitle": "undergrad",
@@ -571,7 +559,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a5b23abf11ce42fb911c0440c23de840bc19ab5/images/thumbnail_tony.jpg",
 			"name": "Tony Li",
 			"jobTitle": "masters",
@@ -583,7 +571,7 @@
 			"@type": "Person",
 			"alum": true
 		},
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@51feb21866b88725094b0ccedf4f31f62d0733e1/images/IMG_0012%20(1).jpg",
 			"name": "Brooke Nelson",
 			"jobTitle": "intern",
@@ -593,6 +581,18 @@
 			},
 			"@type": "Person",
 			"alum": true
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b2d0c7a3dc18241fc29014dbfd2e586235064122/images/Screen%20Shot%202022-05-08%20at%205.10.32%20PM.png",
+			"name": "Lin Qiu",
+			"jobTitle": "masters",
+			"alum": false,
+			"bio": "Lin Qiu is BS/MA student at the University of Washington in Computer Science. Her research interests are in HCI and Social Computing.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/lin-qiu-cs/",
+				"scholar_url": "https://scholar.google.com/citations?user=IE9lnlEAAAAJ&hl=en"
+			},
+			"@type": "Person"
 		}
 	]
 }
