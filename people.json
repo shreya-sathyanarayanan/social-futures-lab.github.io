@@ -176,6 +176,18 @@
 			"alum": false
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b2d0c7a3dc18241fc29014dbfd2e586235064122/images/Screen%20Shot%202022-05-08%20at%205.10.32%20PM.png",
+			"name": "Lin Qiu",
+			"jobTitle": "masters",
+			"alum": false,
+			"bio": "Lin Qiu is BS/MA student at the University of Washington in Computer Science. Her research interests are in HCI and Social Computing.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/lin-qiu-cs/",
+				"scholar_url": "https://scholar.google.com/citations?user=IE9lnlEAAAAJ&hl=en"
+			},
+			"@type": "Person"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"name": "Shagun Jhaver",
 			"jobTitle": "postdoc",
@@ -411,18 +423,6 @@
 			"alum": true
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@44a55ee5ba2f5af2451377feca7ec82bbda87834/images/Picture1.png",
-			"name": "Lin Qiu",
-			"jobTitle": "undergrad",
-			"bio": "Lin Qiu is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction and she is currently working on improving collaboration in small online meetings.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/lin-qiu-866600220/",
-				"github_url": "https://github.com/linqiu0-0"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5933b4006ae2eb427fbb8e9f9059a5f5281ea5/images/inyoung.png",
 			"name": "Inyoung Cheong",
 			"jobTitle": "phd",
@@ -581,18 +581,6 @@
 			},
 			"@type": "Person",
 			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b2d0c7a3dc18241fc29014dbfd2e586235064122/images/Screen%20Shot%202022-05-08%20at%205.10.32%20PM.png",
-			"name": "Lin Qiu",
-			"jobTitle": "masters",
-			"alum": false,
-			"bio": "Lin Qiu is BS/MA student at the University of Washington in Computer Science. Her research interests are in HCI and Social Computing.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/lin-qiu-cs/",
-				"scholar_url": "https://scholar.google.com/citations?user=IE9lnlEAAAAJ&hl=en"
-			},
-			"@type": "Person"
 		}
 	]
 }
