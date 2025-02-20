@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5a7a33950eebc572b416df277765b61d4e3836da/images/Sloan%20Research%20Fellow%202025%20hero%20slider.png",
+			"title": "Amy is a 2025 Sloan Research Fellow",
+			"date": "Feb 2025",
+			"description": "Amy is one of 126 U.S. and Canadian professors awarded for her innovative early-career research. Her work in building tools and developing paradigms for collaborative governance on digital platforms distinguishes her as a research leader of the next generation.",
+			"link": {
+				"link_url": "https://sloan.org/fellowships/2025-fellows",
+				"link_text": "Fellows announcement"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@25c5f974d35ed20a93076689895f60adb036c0b1/images/Screenshot%20from%202025-02-13%2016-25-22.png",
 			"title": "Xinyi presents at UW Data Science Seminar at the EScience Institute",
 			"date": "Feb 2025",
