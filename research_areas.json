@@ -2,7 +2,7 @@
 	"area": [
 		{
 			"title": "Foundations of New Sociotechnical Systems",
-			"description": "<span style=\"font-size: 14px;\">We explore and innovate future social media platforms that are inclusive, safe, and tailored to diverse user needs.</span>",
+			"description": "<span style=\"font-size: 14px;\">Over the decades, social media platforms have come and gone, but all share some fundamental building blocks. We examine these patterns to rethink how digital spaces function. By altering their underlying &ldquo;physics,&rdquo; we can unlock new ways for people to communicate and share.</span>",
 			"author2": [
 				{
 					"author_name2": "Ruotong Wang"
@@ -16,13 +16,8 @@
 			],
 			"project": [
 				{
-					"project_name": "Tilda",
-					"project_url": "http://tildachat.com/",
-					"@type": "item"
-				},
-				{
-					"project_url": "http://wikum.org/",
-					"project_name": "Wikum",
+					"project_url": "https://social.cs.washington.edu/pub_details.html?id=form-from",
+					"project_name": "Form From",
 					"@type": "item"
 				},
 				{
@@ -31,8 +26,23 @@
 					"@type": "item"
 				},
 				{
-					"project_url": "https://social.cs.washington.edu/pub_details.html?id=form-from",
-					"project_name": "Form From",
+					"project_url": "https://social.cs.washington.edu/pub_details.html?id=meronymity",
+					"project_name": "Meronymity",
+					"@type": "item"
+				},
+				{
+					"project_url": "https://social.cs.washington.edu/pub_details.html?id=making-sense-of-group-chat",
+					"project_name": "Tilda",
+					"@type": "item"
+				},
+				{
+					"project_url": "https://social.cs.washington.edu/pub_details.html?id=wikum-bridging-discussion-forums-and-wikis",
+					"project_name": "Wikum",
+					"@type": "item"
+				},
+				{
+					"project_url": "https://social.cs.washington.edu/pub_details.html?id=a-system-for-interleaving-discussion-and-summarization",
+					"project_name": "Wikum+",
 					"@type": "item"
 				}
 			],
