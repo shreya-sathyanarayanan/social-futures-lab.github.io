@@ -108,6 +108,16 @@
 					"project_url": "https://arxiv.org/abs/2403.11169",
 					"project_name": "MUSE",
 					"@type": "item"
+				},
+				{
+					"project_url": "https://dl.acm.org/doi/abs/10.1145/3613904.3642490",
+					"project_name": "Viblio",
+					"@type": "item"
+				},
+				{
+					"project_url": "https://dl.acm.org/doi/abs/10.1145/3492861",
+					"project_name": "Pano",
+					"@type": "item"
 				}
 			],
 			"author2": [
