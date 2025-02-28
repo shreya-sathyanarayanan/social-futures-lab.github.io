@@ -52,7 +52,7 @@
 		},
 		{
 			"title": "Participatory Governance",
-			"description": "<span style=\"font-size: 14px;\">We design democratic structures that support community resilience as well as tools for self-governance.</span>",
+			"description": "<span style=\"font-size: 14px;\">Most online platforms, online communities, and collectively-used AI systems are governed in a top-down manner. But in the offline world, alternative governance structures abound, including more participatory ones. We design tools and workflows to make participatory governance of digital systems and spaces easier and better.</span>",
 			"project": [
 				{
 					"project_url": "http://policykit.org/",
@@ -68,9 +68,30 @@
 					"project_url": "http://digitaljuries.com/",
 					"project_name": "Digital Juries",
 					"@type": "item"
+				},
+				{
+					"project_url": "https://journals.sagepub.com/doi/full/10.1177/20563051231207857",
+					"project_name": "Multi-level Gov Design",
+					"@type": "item"
+				},
+				{
+					"project_url": "https://arxiv.org/abs/2401.16610",
+					"project_name": "Measuring Gov Perceptions",
+					"@type": "item"
+				},
+				{
+					"project_url": "https://dl.acm.org/doi/abs/10.1145/3449090",
+					"project_name": "Modular Politics",
+					"@type": "item"
+				},
+				{
+					"project_url": "https://dl.acm.org/doi/abs/10.1145/3512929",
+					"project_name": "Gov Legitimacy",
+					"@type": "item"
 				}
 			],
 			"author2": [
+				{},
 				{
 					"author_name2": "Galen Weld"
 				},
