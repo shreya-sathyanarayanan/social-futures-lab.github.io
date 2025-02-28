@@ -9,9 +9,6 @@
 				},
 				{
 					"author_name2": "Kevin Feng"
-				},
-				{
-					"author_name2": "Leijie Wang"
 				}
 			],
 			"project": [
@@ -81,7 +78,6 @@
 				}
 			],
 			"author2": [
-				{},
 				{
 					"author_name2": "Galen Weld"
 				},
@@ -115,12 +111,14 @@
 				}
 			],
 			"author2": [
-				{},
 				{
 					"author_name2": "Leijie Wang"
 				},
 				{
 					"author_name2": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name2": "Xinyi Zhou"
 				}
 			]
 		},
