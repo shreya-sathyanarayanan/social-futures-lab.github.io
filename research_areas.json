@@ -137,16 +137,6 @@
 			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little in decades. But these designs bake in assumptions about discussion that limit our capabilities for exchange. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
 			"project": [
 				{
-					"project_name": "Tilda",
-					"project_url": "http://tildachat.com/",
-					"@type": "item"
-				},
-				{
-					"project_url": "http://wikum.org/",
-					"project_name": "Wikum",
-					"@type": "item"
-				},
-				{
 					"project_url": "https://social.cs.washington.edu/pub_details.html?id=online-communities-voluntary-misinfo-response",
 					"project_name": "Voluntary Misinfo Response",
 					"@type": "item"
@@ -159,16 +149,13 @@
 			],
 			"author2": [
 				{
-					"author_name2": "Kevin Feng"
-				},
-				{
 					"author_name2": "Ruotong Wang"
 				},
 				{
-					"author_name2": "Galen Weld"
+					"author_name2": "Xinyi Zhou"
 				},
 				{
-					"author_name2": "Jina Yoon"
+					"author_name2": "Bingcan(Gloria) Guo"
 				}
 			]
 		},
