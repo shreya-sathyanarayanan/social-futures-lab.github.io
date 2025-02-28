@@ -133,7 +133,7 @@
 			]
 		},
 		{
-			"title": "Public Interest Technology",
+			"title": "Public Interest and Deliberative Tech",
 			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little in decades. But these designs bake in assumptions about discussion that limit our capabilities for exchange. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
 			"project": [
 				{
@@ -160,7 +160,7 @@
 			]
 		},
 		{
-			"title": "Information Management and Creativity Support",
+			"title": "Collaboration and Creativity Support",
 			"description": "<span style=\"font-size: 14px;\">We design new software tools and human-AI hybrid systems to support group collaboration and creative work.</span>",
 			"project": [
 				{
