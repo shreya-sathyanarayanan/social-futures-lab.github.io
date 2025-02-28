@@ -87,7 +87,7 @@
 			]
 		},
 		{
-			"title": "Encouraging Pro-Social Discourse",
+			"title": "Improving Online Discourse",
 			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online spaces for conversation can be notorious for being toxic, hateful, misinformed, or just unproductive. We build tools to encourage higher quality conversations, including more informative and more empathetic ones. We also build tools to enforce social norms and guard against harassment in ways that are customizable to user and community needs.</span>",
 			"project": [
 				{
@@ -153,6 +153,9 @@
 				},
 				{
 					"author_name2": "Xinyi Zhou"
+				},
+				{
+					"author_name2": "Quan Ze (Jim) Chen"
 				},
 				{
 					"author_name2": "Bingcan(Gloria) Guo"
