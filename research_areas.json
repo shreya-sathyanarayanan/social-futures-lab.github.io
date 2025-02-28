@@ -75,13 +75,8 @@
 					"@type": "item"
 				},
 				{
-					"project_url": "https://dl.acm.org/doi/abs/10.1145/3512929",
-					"project_name": "Gov Legitimacy",
-					"@type": "item"
-				},
-				{
 					"project_url": "https://arxiv.org/abs/2401.16610",
-					"project_name": "Measuring Gov Perceptions",
+					"project_name": "Gov Perceptions",
 					"@type": "item"
 				}
 			],
