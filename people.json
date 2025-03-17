@@ -188,6 +188,18 @@
 			"@type": "Person"
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@25d12fecd7a4405f34adf3aea36902061c04d369/images/sam_wong.webp",
+			"name": "Sam Wong",
+			"jobTitle": "masters",
+			"alum": false,
+			"bio": "Sam is a masters student at the University of Washington in Technology Innovation. His research interests are in human computer interaction and social computing, specifically in building systems that facilitates understanding and participation in an online social setting.",
+			"links": {
+				"website_url": "https://samw0627-github-io.vercel.app/",
+				"scholar_url": "https://scholar.google.com/citations?user=3ikhPPUAAAAJ&hl=en"
+			},
+			"@type": "Person"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"name": "Shagun Jhaver",
 			"jobTitle": "postdoc",
@@ -581,18 +593,6 @@
 			},
 			"@type": "Person",
 			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@25d12fecd7a4405f34adf3aea36902061c04d369/images/sam_wong.webp",
-			"name": "Sam Wong",
-			"jobTitle": "masters",
-			"alum": false,
-			"bio": "Sam is a masters student at the University of Washington in Technology Innovation. His research interests are in human computer interaction and social computing, specifically in building systems that facilitates understanding and participation in an online social setting.",
-			"links": {
-				"website_url": "https://samw0627-github-io.vercel.app/",
-				"scholar_url": "https://scholar.google.com/citations?user=3ikhPPUAAAAJ&hl=en"
-			},
-			"@type": "Person"
 		}
 	]
 }
