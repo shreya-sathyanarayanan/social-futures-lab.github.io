@@ -1,6 +1,6 @@
 {
 	"paper": [
-    {
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1715159beab0e1d44adf5f29eb07f558b57dd55e/images/cscw-amanda.jpg",
 			"title": "Supporting Hard Conversations in Close Relationships Through Design",
 			"id": "relationship-conversations",
@@ -29,7 +29,8 @@
 			"abstract": "Relationships are perhaps the single greatest source of human happiness, and as part of building strong relationships, conflict and hard conversations are unavoidable. As people increasingly rely on digital communication to initiate and resolve conflicts, we examine how design can improve the experience of working through hard conversations within close relationships. We interviewed six psychotherapists and twenty-one social media users to understand both theoretical best practices for navigating conflict and users' experiences with hard conversations online, particularly on text-based messaging platforms. We used our findings to create a temporal model of how digital design could intervene to support users and their relationships during these conversations. Specifically, we find that design can help to facilitate more mutually consensual difficult conversations, support emotional regulation during the conversation, and help facilitate pauses when necessary. We explore the tensions between balancing the needs of relationships and the individuals in them in digital design, and how to center relationships in digital design.",
 			"links": {
 				"pdf_url": "https://faculty.washington.edu/alexisr/HardConversationsDesign.pdf"
-			}
+			},
+			"bibtex": "@article{10.1145/3686918,\nauthor = {Baughan, Amanda and Tian, Larry and Shekar, Pranav and Zhang, Amy and Hiniker, Alexis},\ntitle = {Supporting Hard Conversations in Close Relationships Through Design},\nyear = {2024},\nissue_date = {November 2024},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {8},\nnumber = {CSCW2},\nurl = {https://doi.org/10.1145/3686918},\ndoi = {10.1145/3686918},\nabstract = {Relationships are perhaps the single greatest source of human happiness, and as part of building strong relationships, conflict and hard conversations are unavoidable. As people increasingly rely on digital communication to initiate and resolve conflicts, we examine how design can improve the experience of working through hard conversations within close relationships. We interviewed six psychotherapists and twenty-one social media users to understand both theoretical best practices for navigating conflict and users' experiences with hard conversations online, particularly on text-based messaging platforms. We used our findings to create a temporal model of how digital design could intervene to support users and their relationships during these conversations. Specifically, we find that design can help to facilitate more mutually consensual difficult conversations, support emotional regulation during the conversation, and help facilitate pauses when necessary. We explore the tensions between balancing the needs of relationships and the individuals in them in digital design, and how to center relationships in digital design.},\njournal = {Proc. ACM Hum.-Comput. Interact.},\nmonth = nov,\narticleno = {379},\nnumpages = {22},\nkeywords = {computer-mediated communication, conflict, design, social media}\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@2dcc2b1f7d848b8088ae4a1271ad32edaa010712/images/ResearchPaper.png",
