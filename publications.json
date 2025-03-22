@@ -1,6 +1,7 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@15a38cf2b0855846bf164047ac0e0dbdfccc28a6/images/Screenshot%202025-03-22%20at%2009.51.32.png",
 			"title": "End User Authoring of Personalized Content Classifiers: Comparing Example Labeling, Rule Writing, and LLM Prompting",
 			"id": "end-user-authoring-of-personalized-content-classifiers-comparing-example-labeling-rule-writing-and-llm-prompting",
 			"author": [
